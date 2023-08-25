@@ -1,2 +1,4 @@
-r=int(input())
-print(round(3.14*r*r,2))
+a=int(input())
+pi=3.14
+ar=pi*a*a
+print('%.2f'%ar)
